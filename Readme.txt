@@ -4,7 +4,7 @@ The package works best with RStudio. To install the "PoEdata" package, type the 
 
  install.packages("devtools")  # if not already installed
  library(devtools)
- install_git("https://github.com/ccolonescu/PoEdata")
+ install_github("https://github.com/ccolonescu/PoEdata")
 
 Now, the data should be ready to use. For instance, if you wish to use the dataset "andy":
 
